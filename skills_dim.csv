@@ -1,0 +1,40 @@
+skill_id,skills
+1,SQL
+2,Python
+3,Excel
+4,Power BI
+5,Tableau
+6,R
+7,Statistics
+8,Machine Learning
+9,Data Visualization
+10,Pandas
+11,NumPy
+12,ETL
+13,BigQuery
+14,Snowflake
+15,AWS
+16,Azure
+17,GCP
+18,MySQL
+19,PostgreSQL
+20,MongoDB
+21,Git
+22,Linux
+23,Spark
+24,Hadoop
+25,Airflow
+26,Looker
+27,Seaborn
+28,Matplotlib
+29,Scikit-learn
+30,TensorFlow
+31,PyTorch
+32,Time Series
+33,Forecasting
+34,Business Intelligence
+35,Data Warehousing
+36,PowerPoint
+37,Communication
+38,Problem Solving
+39,Critical Thinking

@@ -1,0 +1,651 @@
+job_id,job_title,job_title_short,job_location,job_schedule_type,job_work_from_home,salary_year_avg,job_posted_date
+1,Senior Data Analyst,Data Analyst,India,Contract,True,125000.0,2024-09-07
+2,Senior Data Analyst,Data Analyst,USA,Contract,True,100000.0,2024-11-07
+3,Data Analyst,Data Analyst,USA,Full-time,True,80000.0,2024-10-04
+4,Data Analyst,Data Analyst,India,Full-time,True,95000.0,2024-04-06
+5,Data Analyst,Data Analyst,Germany,Contract,False,95000.0,2024-01-07
+6,Data Analyst,Data Analyst,Germany,Full-time,True,110000.0,2024-06-24
+7,Data Analyst,Data Analyst,USA,Contract,True,65000.0,2024-08-12
+8,Junior Data Analyst,Data Analyst,Germany,Full-time,False,95000.0,2024-05-06
+9,Senior Data Analyst,Data Analyst,UK,Contract,True,125000.0,2024-05-21
+10,Data Analyst,Data Analyst,India,Full-time,True,95000.0,2024-03-21
+11,Senior Data Analyst,Data Analyst,Germany,Full-time,False,75000.0,2024-05-26
+12,Data Analyst,Data Analyst,USA,Full-time,False,60000.0,2024-10-27
+13,Junior Data Analyst,Data Analyst,USA,Contract,False,70000.0,2024-10-19
+14,Senior Data Analyst,Data Analyst,Germany,Contract,True,90000.0,2024-01-23
+15,Data Analyst,Data Analyst,India,Contract,True,105000.0,2024-05-29
+16,Data Analyst,Data Analyst,Remote,Full-time,False,90000.0,2024-01-23
+17,Data Analyst,Data Analyst,UK,Full-time,False,90000.0,2024-03-31
+18,Data Analyst,Data Analyst,Remote,Contract,False,85000.0,2024-08-08
+19,Junior Data Analyst,Data Analyst,India,Full-time,True,105000.0,2024-12-14
+20,Junior Data Analyst,Data Analyst,USA,Contract,False,85000.0,2024-07-03
+21,Data Analyst,Data Analyst,USA,Full-time,False,65000.0,2024-11-27
+22,Senior Data Analyst,Data Analyst,UK,Contract,False,65000.0,2024-03-07
+23,Senior Data Analyst,Data Analyst,UK,Contract,False,115000.0,2024-12-17
+24,Senior Data Analyst,Data Analyst,Remote,Contract,False,85000.0,2024-06-10
+25,Senior Data Analyst,Data Analyst,Remote,Full-time,True,85000.0,2024-01-30
+26,Senior Data Analyst,Data Analyst,USA,Full-time,False,95000.0,2024-08-06
+27,Junior Data Analyst,Data Analyst,Germany,Contract,False,105000.0,2024-03-19
+28,Data Analyst,Data Analyst,Germany,Full-time,False,90000.0,2024-08-17
+29,Senior Data Analyst,Data Analyst,USA,Full-time,True,105000.0,2024-10-06
+30,Senior Data Analyst,Data Analyst,Germany,Contract,True,65000.0,2024-02-27
+31,Senior Data Analyst,Data Analyst,USA,Full-time,False,80000.0,2024-07-20
+32,Senior Data Analyst,Data Analyst,India,Contract,True,115000.0,2024-12-30
+33,Junior Data Analyst,Data Analyst,Germany,Full-time,False,75000.0,2024-02-09
+34,Data Analyst,Data Analyst,USA,Contract,True,115000.0,2024-03-16
+35,Data Analyst,Data Analyst,Remote,Full-time,False,90000.0,2024-01-22
+36,Senior Data Analyst,Data Analyst,Remote,Full-time,False,100000.0,2024-10-21
+37,Data Analyst,Data Analyst,India,Full-time,True,65000.0,2024-02-03
+38,Data Analyst,Data Analyst,India,Full-time,False,90000.0,2024-03-28
+39,Senior Data Analyst,Data Analyst,USA,Full-time,True,80000.0,2024-07-07
+40,Senior Data Analyst,Data Analyst,India,Contract,False,110000.0,2024-01-22
+41,Senior Data Analyst,Data Analyst,Remote,Contract,False,100000.0,2024-10-16
+42,Senior Data Analyst,Data Analyst,USA,Full-time,False,60000.0,2024-06-22
+43,Data Analyst,Data Analyst,Germany,Contract,False,90000.0,2024-02-11
+44,Junior Data Analyst,Data Analyst,India,Full-time,True,65000.0,2024-06-17
+45,Senior Data Analyst,Data Analyst,USA,Full-time,True,90000.0,2024-01-05
+46,Data Analyst,Data Analyst,Remote,Full-time,False,90000.0,2024-12-01
+47,Data Analyst,Data Analyst,UK,Full-time,True,115000.0,2024-12-28
+48,Data Analyst,Data Analyst,USA,Contract,True,95000.0,2024-08-02
+49,Data Analyst,Data Analyst,Remote,Full-time,False,125000.0,2024-09-16
+50,Senior Data Analyst,Data Analyst,UK,Contract,False,70000.0,2024-05-07
+51,Junior Data Analyst,Data Analyst,UK,Full-time,False,95000.0,2024-10-15
+52,Data Analyst,Data Analyst,India,Full-time,True,110000.0,2024-08-08
+53,Junior Data Analyst,Data Analyst,Remote,Full-time,True,85000.0,2024-10-29
+54,Junior Data Analyst,Data Analyst,USA,Full-time,True,60000.0,2024-10-18
+55,Senior Data Analyst,Data Analyst,India,Contract,False,105000.0,2024-10-10
+56,Senior Data Analyst,Data Analyst,USA,Full-time,False,105000.0,2024-10-20
+57,Data Analyst,Data Analyst,India,Contract,False,100000.0,2024-08-25
+58,Senior Data Analyst,Data Analyst,USA,Contract,True,,2024-12-01
+59,Senior Data Analyst,Data Analyst,UK,Full-time,True,,2024-05-22
+60,Junior Data Analyst,Data Analyst,India,Contract,True,105000.0,2024-10-21
+61,Junior Data Analyst,Data Analyst,Germany,Full-time,False,75000.0,2024-04-05
+62,Junior Data Analyst,Data Analyst,Remote,Full-time,True,,2024-06-19
+63,Senior Data Analyst,Data Analyst,Remote,Full-time,True,110000.0,2024-10-22
+64,Data Analyst,Data Analyst,Remote,Contract,False,70000.0,2024-01-11
+65,Senior Data Analyst,Data Analyst,Remote,Contract,True,125000.0,2024-12-09
+66,Data Analyst,Data Analyst,India,Full-time,True,85000.0,2024-12-18
+67,Senior Data Analyst,Data Analyst,UK,Full-time,True,,2024-05-13
+68,Data Analyst,Data Analyst,India,Full-time,True,,2024-01-31
+69,Junior Data Analyst,Data Analyst,UK,Full-time,True,120000.0,2024-05-20
+70,Data Analyst,Data Analyst,USA,Full-time,True,60000.0,2024-08-11
+71,Junior Data Analyst,Data Analyst,USA,Contract,True,65000.0,2024-09-20
+72,Senior Data Analyst,Data Analyst,Remote,Contract,True,80000.0,2024-02-27
+73,Data Analyst,Data Analyst,Remote,Full-time,True,80000.0,2024-01-01
+74,Senior Data Analyst,Data Analyst,India,Contract,True,90000.0,2024-11-03
+75,Senior Data Analyst,Data Analyst,India,Contract,False,95000.0,2024-06-04
+76,Junior Data Analyst,Data Analyst,Germany,Full-time,True,65000.0,2024-03-28
+77,Senior Data Analyst,Data Analyst,USA,Full-time,True,65000.0,2024-02-05
+78,Junior Data Analyst,Data Analyst,USA,Contract,False,85000.0,2024-01-11
+79,Junior Data Analyst,Data Analyst,India,Contract,True,70000.0,2024-03-05
+80,Senior Data Analyst,Data Analyst,USA,Full-time,True,95000.0,2024-04-05
+81,Junior Data Analyst,Data Analyst,UK,Full-time,False,110000.0,2024-08-09
+82,Junior Data Analyst,Data Analyst,Remote,Contract,False,95000.0,2024-10-29
+83,Senior Data Analyst,Data Analyst,India,Full-time,False,80000.0,2024-09-13
+84,Senior Data Analyst,Data Analyst,Germany,Full-time,True,60000.0,2024-04-29
+85,Junior Data Analyst,Data Analyst,USA,Full-time,True,75000.0,2024-01-24
+86,Junior Data Analyst,Data Analyst,India,Full-time,True,65000.0,2024-06-29
+87,Junior Data Analyst,Data Analyst,Germany,Contract,True,80000.0,2024-11-30
+88,Data Analyst,Data Analyst,Remote,Full-time,False,125000.0,2024-11-03
+89,Junior Data Analyst,Data Analyst,Remote,Full-time,True,110000.0,2024-04-09
+90,Data Analyst,Data Analyst,India,Contract,False,105000.0,2024-12-25
+91,Senior Data Analyst,Data Analyst,India,Contract,True,100000.0,2024-05-17
+92,Junior Data Analyst,Data Analyst,UK,Contract,True,125000.0,2024-01-10
+93,Senior Data Analyst,Data Analyst,USA,Contract,True,105000.0,2024-02-01
+94,Senior Data Analyst,Data Analyst,UK,Contract,True,65000.0,2024-09-06
+95,Junior Data Analyst,Data Analyst,Remote,Contract,True,105000.0,2024-07-16
+96,Senior Data Analyst,Data Analyst,Remote,Full-time,False,65000.0,2024-08-05
+97,Senior Data Analyst,Data Analyst,Remote,Contract,True,85000.0,2024-05-05
+98,Data Analyst,Data Analyst,Germany,Full-time,True,115000.0,2024-01-18
+99,Senior Data Analyst,Data Analyst,UK,Full-time,True,125000.0,2024-09-06
+100,Senior Data Analyst,Data Analyst,USA,Contract,True,90000.0,2024-11-08
+101,Data Analyst,Data Analyst,Remote,Full-time,False,100000.0,2024-02-11
+102,Senior Data Analyst,Data Analyst,UK,Contract,True,60000.0,2024-06-09
+103,Junior Data Analyst,Data Analyst,USA,Contract,True,80000.0,2024-01-17
+104,Senior Data Analyst,Data Analyst,UK,Full-time,True,110000.0,2024-06-10
+105,Data Analyst,Data Analyst,Remote,Full-time,False,90000.0,2024-01-11
+106,Junior Data Analyst,Data Analyst,UK,Contract,False,80000.0,2024-10-10
+107,Data Analyst,Data Analyst,Germany,Contract,True,60000.0,2024-04-13
+108,Junior Data Analyst,Data Analyst,Remote,Full-time,True,75000.0,2024-06-17
+109,Senior Data Analyst,Data Analyst,UK,Full-time,True,125000.0,2024-05-26
+110,Data Analyst,Data Analyst,Germany,Full-time,True,115000.0,2024-07-21
+111,Data Analyst,Data Analyst,Remote,Contract,True,115000.0,2024-10-27
+112,Junior Data Analyst,Data Analyst,Germany,Full-time,False,70000.0,2024-01-14
+113,Senior Data Analyst,Data Analyst,India,Contract,True,95000.0,2024-11-26
+114,Junior Data Analyst,Data Analyst,Germany,Contract,True,115000.0,2024-07-26
+115,Senior Data Analyst,Data Analyst,Remote,Full-time,True,,2024-12-25
+116,Senior Data Analyst,Data Analyst,India,Contract,True,65000.0,2024-01-12
+117,Data Analyst,Data Analyst,USA,Contract,False,100000.0,2024-05-16
+118,Junior Data Analyst,Data Analyst,Remote,Contract,False,100000.0,2024-08-23
+119,Senior Data Analyst,Data Analyst,India,Full-time,False,115000.0,2024-03-21
+120,Data Analyst,Data Analyst,UK,Full-time,True,80000.0,2024-04-06
+121,Junior Data Analyst,Data Analyst,Remote,Full-time,False,105000.0,2024-01-19
+122,Data Analyst,Data Analyst,Germany,Full-time,False,100000.0,2024-07-15
+123,Data Analyst,Data Analyst,UK,Full-time,True,,2024-01-02
+124,Data Analyst,Data Analyst,India,Contract,False,85000.0,2024-04-22
+125,Data Analyst,Data Analyst,USA,Contract,False,100000.0,2024-11-30
+126,Junior Data Analyst,Data Analyst,Germany,Contract,False,95000.0,2024-05-04
+127,Senior Data Analyst,Data Analyst,UK,Contract,True,115000.0,2024-06-27
+128,Senior Data Analyst,Data Analyst,Remote,Contract,True,90000.0,2024-12-19
+129,Data Analyst,Data Analyst,Remote,Full-time,False,120000.0,2024-12-11
+130,Junior Data Analyst,Data Analyst,Remote,Full-time,False,120000.0,2024-03-15
+131,Senior Data Analyst,Data Analyst,Germany,Full-time,True,90000.0,2024-03-27
+132,Junior Data Analyst,Data Analyst,Remote,Full-time,True,125000.0,2024-04-22
+133,Data Analyst,Data Analyst,USA,Contract,True,110000.0,2024-11-29
+134,Junior Data Analyst,Data Analyst,India,Contract,True,105000.0,2024-06-05
+135,Senior Data Analyst,Data Analyst,Remote,Contract,True,125000.0,2024-06-24
+136,Senior Data Analyst,Data Analyst,Remote,Contract,False,115000.0,2024-07-31
+137,Data Analyst,Data Analyst,Remote,Contract,False,65000.0,2024-08-18
+138,Senior Data Analyst,Data Analyst,India,Contract,False,85000.0,2024-05-26
+139,Senior Data Analyst,Data Analyst,USA,Contract,False,,2024-04-24
+140,Senior Data Analyst,Data Analyst,Remote,Full-time,True,75000.0,2024-12-29
+141,Data Analyst,Data Analyst,UK,Full-time,False,105000.0,2024-06-27
+142,Data Analyst,Data Analyst,India,Full-time,True,125000.0,2024-04-12
+143,Senior Data Analyst,Data Analyst,USA,Contract,False,70000.0,2024-06-26
+144,Junior Data Analyst,Data Analyst,Germany,Contract,False,60000.0,2024-04-16
+145,Junior Data Analyst,Data Analyst,USA,Full-time,False,75000.0,2024-06-01
+146,Senior Data Analyst,Data Analyst,Germany,Full-time,True,110000.0,2024-11-11
+147,Junior Data Analyst,Data Analyst,India,Contract,False,60000.0,2024-05-10
+148,Junior Data Analyst,Data Analyst,USA,Full-time,False,115000.0,2024-05-24
+149,Junior Data Analyst,Data Analyst,India,Contract,True,90000.0,2024-08-30
+150,Data Analyst,Data Analyst,Remote,Full-time,False,95000.0,2024-05-13
+151,Junior Data Analyst,Data Analyst,India,Full-time,False,,2024-12-19
+152,Junior Data Analyst,Data Analyst,Germany,Contract,True,90000.0,2024-01-18
+153,Junior Data Analyst,Data Analyst,India,Full-time,True,,2024-06-14
+154,Junior Data Analyst,Data Analyst,Remote,Full-time,True,60000.0,2024-11-05
+155,Senior Data Analyst,Data Analyst,Germany,Full-time,False,60000.0,2024-03-31
+156,Junior Data Analyst,Data Analyst,India,Full-time,False,75000.0,2024-06-09
+157,Data Analyst,Data Analyst,USA,Contract,False,70000.0,2024-11-10
+158,Senior Data Analyst,Data Analyst,Remote,Full-time,True,65000.0,2024-08-16
+159,Data Analyst,Data Analyst,India,Contract,True,125000.0,2024-05-30
+160,Junior Data Analyst,Data Analyst,Remote,Contract,False,80000.0,2024-02-13
+161,Data Analyst,Data Analyst,USA,Full-time,False,85000.0,2024-09-02
+162,Junior Data Analyst,Data Analyst,Germany,Full-time,True,115000.0,2024-09-30
+163,Senior Data Analyst,Data Analyst,India,Full-time,True,65000.0,2024-05-30
+164,Data Analyst,Data Analyst,USA,Full-time,False,120000.0,2024-03-22
+165,Data Analyst,Data Analyst,UK,Contract,False,60000.0,2024-01-29
+166,Data Analyst,Data Analyst,Germany,Contract,True,70000.0,2024-04-26
+167,Junior Data Analyst,Data Analyst,Germany,Full-time,False,65000.0,2024-04-09
+168,Data Analyst,Data Analyst,Remote,Contract,True,,2024-07-14
+169,Data Analyst,Data Analyst,USA,Contract,False,100000.0,2024-05-28
+170,Data Analyst,Data Analyst,Remote,Contract,True,100000.0,2024-12-12
+171,Senior Data Analyst,Data Analyst,USA,Full-time,False,65000.0,2024-12-15
+172,Junior Data Analyst,Data Analyst,UK,Contract,True,105000.0,2024-07-01
+173,Senior Data Analyst,Data Analyst,Germany,Contract,True,70000.0,2024-07-25
+174,Junior Data Analyst,Data Analyst,USA,Full-time,True,60000.0,2024-05-01
+175,Data Analyst,Data Analyst,Germany,Contract,False,80000.0,2024-03-21
+176,Data Analyst,Data Analyst,Germany,Contract,True,70000.0,2024-07-13
+177,Junior Data Analyst,Data Analyst,USA,Contract,True,85000.0,2024-06-29
+178,Junior Data Analyst,Data Analyst,UK,Full-time,True,120000.0,2024-03-16
+179,Data Analyst,Data Analyst,Germany,Full-time,False,115000.0,2024-10-05
+180,Senior Data Analyst,Data Analyst,India,Full-time,True,60000.0,2024-11-21
+181,Junior Data Analyst,Data Analyst,USA,Contract,False,90000.0,2024-12-06
+182,Senior Data Analyst,Data Analyst,India,Contract,False,100000.0,2024-02-28
+183,Junior Data Analyst,Data Analyst,Germany,Contract,False,115000.0,2024-04-12
+184,Data Analyst,Data Analyst,UK,Full-time,False,60000.0,2024-02-08
+185,Junior Data Analyst,Data Analyst,UK,Contract,True,65000.0,2024-03-01
+186,Data Analyst,Data Analyst,Germany,Full-time,False,95000.0,2024-08-02
+187,Junior Data Analyst,Data Analyst,India,Full-time,True,90000.0,2024-04-02
+188,Senior Data Analyst,Data Analyst,Remote,Contract,False,80000.0,2024-12-06
+189,Junior Data Analyst,Data Analyst,Germany,Full-time,True,,2024-10-22
+190,Junior Data Analyst,Data Analyst,UK,Contract,True,125000.0,2024-04-18
+191,Junior Data Analyst,Data Analyst,USA,Contract,True,125000.0,2024-03-24
+192,Senior Data Analyst,Data Analyst,Remote,Full-time,True,120000.0,2024-10-01
+193,Junior Data Analyst,Data Analyst,Remote,Contract,True,60000.0,2024-08-26
+194,Junior Data Analyst,Data Analyst,India,Full-time,False,70000.0,2024-12-12
+195,Junior Data Analyst,Data Analyst,USA,Full-time,False,85000.0,2024-01-11
+196,Data Analyst,Data Analyst,USA,Contract,False,115000.0,2024-12-16
+197,Junior Data Analyst,Data Analyst,Germany,Contract,False,80000.0,2024-12-14
+198,Data Analyst,Data Analyst,USA,Contract,True,105000.0,2024-06-18
+199,Data Analyst,Data Analyst,Germany,Contract,True,95000.0,2024-09-01
+200,Data Analyst,Data Analyst,USA,Full-time,False,70000.0,2024-09-20
+201,Junior Data Analyst,Data Analyst,UK,Contract,False,125000.0,2024-08-29
+202,Junior Data Analyst,Data Analyst,USA,Contract,True,,2024-02-05
+203,Senior Data Analyst,Data Analyst,India,Contract,False,85000.0,2024-03-02
+204,Senior Data Analyst,Data Analyst,Germany,Full-time,False,,2024-11-20
+205,Data Analyst,Data Analyst,UK,Contract,True,125000.0,2024-11-21
+206,Senior Data Analyst,Data Analyst,UK,Full-time,True,90000.0,2024-05-08
+207,Junior Data Analyst,Data Analyst,India,Full-time,False,80000.0,2024-12-11
+208,Data Analyst,Data Analyst,Remote,Contract,True,95000.0,2024-12-20
+209,Junior Data Analyst,Data Analyst,India,Full-time,True,115000.0,2024-05-29
+210,Senior Data Analyst,Data Analyst,USA,Full-time,True,120000.0,2024-02-27
+211,Junior Data Analyst,Data Analyst,Germany,Full-time,False,60000.0,2024-05-18
+212,Senior Data Analyst,Data Analyst,USA,Full-time,True,110000.0,2024-09-30
+213,Junior Data Analyst,Data Analyst,USA,Full-time,False,90000.0,2024-10-28
+214,Junior Data Analyst,Data Analyst,UK,Contract,True,105000.0,2024-01-06
+215,Data Analyst,Data Analyst,India,Full-time,True,120000.0,2024-08-29
+216,Data Analyst,Data Analyst,India,Contract,True,85000.0,2024-06-09
+217,Senior Data Analyst,Data Analyst,Remote,Full-time,True,115000.0,2024-05-12
+218,Data Analyst,Data Analyst,Germany,Full-time,False,80000.0,2024-01-25
+219,Data Analyst,Data Analyst,India,Full-time,False,125000.0,2024-07-07
+220,Senior Data Analyst,Data Analyst,India,Contract,False,105000.0,2024-01-17
+221,Senior Data Analyst,Data Analyst,UK,Full-time,True,75000.0,2024-12-12
+222,Senior Data Analyst,Data Analyst,USA,Full-time,False,95000.0,2024-01-06
+223,Junior Data Analyst,Data Analyst,UK,Full-time,True,105000.0,2024-11-28
+224,Data Analyst,Data Analyst,UK,Contract,False,80000.0,2024-02-26
+225,Data Analyst,Data Analyst,Remote,Contract,False,95000.0,2024-01-31
+226,Junior Data Analyst,Data Analyst,Germany,Full-time,False,85000.0,2024-05-16
+227,Data Analyst,Data Analyst,USA,Full-time,True,,2024-12-16
+228,Junior Data Analyst,Data Analyst,Germany,Full-time,False,80000.0,2024-02-03
+229,Senior Data Analyst,Data Analyst,Remote,Full-time,False,90000.0,2024-02-20
+230,Junior Data Analyst,Data Analyst,Germany,Full-time,False,90000.0,2024-11-10
+231,Data Analyst,Data Analyst,UK,Full-time,False,70000.0,2024-08-26
+232,Data Analyst,Data Analyst,USA,Contract,True,,2024-05-26
+233,Junior Data Analyst,Data Analyst,Remote,Contract,True,100000.0,2024-02-25
+234,Senior Data Analyst,Data Analyst,UK,Full-time,True,115000.0,2024-03-25
+235,Data Analyst,Data Analyst,USA,Full-time,True,80000.0,2024-06-15
+236,Senior Data Analyst,Data Analyst,Germany,Full-time,True,60000.0,2024-06-29
+237,Data Analyst,Data Analyst,UK,Contract,True,,2024-04-09
+238,Senior Data Analyst,Data Analyst,Germany,Full-time,False,95000.0,2024-11-23
+239,Data Analyst,Data Analyst,USA,Full-time,True,95000.0,2024-07-22
+240,Senior Data Analyst,Data Analyst,Germany,Contract,False,80000.0,2024-04-25
+241,Data Analyst,Data Analyst,USA,Full-time,True,,2024-11-15
+242,Junior Data Analyst,Data Analyst,Germany,Contract,True,120000.0,2024-07-09
+243,Data Analyst,Data Analyst,India,Full-time,True,75000.0,2024-07-25
+244,Senior Data Analyst,Data Analyst,USA,Full-time,False,70000.0,2024-06-14
+245,Junior Data Analyst,Data Analyst,UK,Contract,True,,2024-08-08
+246,Senior Data Analyst,Data Analyst,Remote,Contract,True,80000.0,2024-02-20
+247,Senior Data Analyst,Data Analyst,Germany,Contract,True,90000.0,2024-09-24
+248,Senior Data Analyst,Data Analyst,UK,Contract,False,90000.0,2024-10-06
+249,Data Analyst,Data Analyst,Germany,Contract,False,115000.0,2024-08-28
+250,Data Analyst,Data Analyst,UK,Contract,False,65000.0,2024-01-25
+251,Senior Data Analyst,Data Analyst,Germany,Full-time,False,65000.0,2024-08-13
+252,Senior Data Analyst,Data Analyst,UK,Contract,False,105000.0,2024-05-22
+253,Junior Data Analyst,Data Analyst,USA,Full-time,True,75000.0,2024-12-19
+254,Junior Data Analyst,Data Analyst,Remote,Full-time,True,90000.0,2024-12-12
+255,Data Analyst,Data Analyst,Germany,Contract,False,90000.0,2024-08-08
+256,Senior Data Analyst,Data Analyst,UK,Full-time,True,100000.0,2024-05-18
+257,Junior Data Analyst,Data Analyst,India,Contract,True,110000.0,2024-10-15
+258,Senior Data Analyst,Data Analyst,India,Contract,False,110000.0,2024-02-19
+259,Data Analyst,Data Analyst,Germany,Contract,True,100000.0,2024-11-01
+260,Senior Data Analyst,Data Analyst,India,Full-time,True,90000.0,2024-10-21
+261,Senior Data Analyst,Data Analyst,UK,Full-time,True,120000.0,2024-12-15
+262,Junior Data Analyst,Data Analyst,Germany,Full-time,False,85000.0,2024-03-16
+263,Senior Data Analyst,Data Analyst,UK,Contract,False,80000.0,2024-05-06
+264,Junior Data Analyst,Data Analyst,Remote,Full-time,True,90000.0,2024-07-18
+265,Junior Data Analyst,Data Analyst,Remote,Full-time,True,65000.0,2024-04-29
+266,Junior Data Analyst,Data Analyst,India,Full-time,True,70000.0,2024-08-27
+267,Junior Data Analyst,Data Analyst,India,Full-time,False,85000.0,2024-03-01
+268,Data Analyst,Data Analyst,India,Contract,False,105000.0,2024-06-19
+269,Junior Data Analyst,Data Analyst,USA,Full-time,False,105000.0,2024-01-05
+270,Senior Data Analyst,Data Analyst,Remote,Contract,False,115000.0,2024-01-03
+271,Senior Data Analyst,Data Analyst,USA,Contract,True,60000.0,2024-11-20
+272,Junior Data Analyst,Data Analyst,Remote,Full-time,False,,2024-03-10
+273,Junior Data Analyst,Data Analyst,India,Contract,True,,2024-05-02
+274,Junior Data Analyst,Data Analyst,India,Contract,True,,2024-08-06
+275,Data Analyst,Data Analyst,UK,Contract,True,70000.0,2024-11-01
+276,Data Analyst,Data Analyst,Germany,Contract,False,60000.0,2024-10-17
+277,Senior Data Analyst,Data Analyst,India,Full-time,False,90000.0,2024-08-04
+278,Data Analyst,Data Analyst,UK,Full-time,False,85000.0,2024-05-01
+279,Junior Data Analyst,Data Analyst,India,Contract,False,65000.0,2024-12-17
+280,Senior Data Analyst,Data Analyst,India,Contract,False,115000.0,2024-09-22
+281,Junior Data Analyst,Data Analyst,Remote,Full-time,False,90000.0,2024-11-28
+282,Data Analyst,Data Analyst,India,Full-time,True,125000.0,2024-10-25
+283,Junior Data Analyst,Data Analyst,USA,Contract,True,95000.0,2024-07-10
+284,Data Analyst,Data Analyst,USA,Contract,False,80000.0,2024-03-24
+285,Junior Data Analyst,Data Analyst,Germany,Contract,True,100000.0,2024-07-04
+286,Junior Data Analyst,Data Analyst,Germany,Full-time,True,65000.0,2024-07-31
+287,Senior Data Analyst,Data Analyst,USA,Contract,False,95000.0,2024-12-05
+288,Junior Data Analyst,Data Analyst,Remote,Full-time,False,85000.0,2024-07-08
+289,Data Analyst,Data Analyst,Remote,Full-time,True,125000.0,2024-07-22
+290,Senior Data Analyst,Data Analyst,India,Contract,False,85000.0,2024-07-10
+291,Senior Data Analyst,Data Analyst,USA,Contract,True,110000.0,2024-12-09
+292,Junior Data Analyst,Data Analyst,UK,Contract,False,75000.0,2024-03-25
+293,Data Analyst,Data Analyst,USA,Contract,True,95000.0,2024-01-18
+294,Data Analyst,Data Analyst,UK,Contract,True,80000.0,2024-03-29
+295,Data Analyst,Data Analyst,Remote,Contract,False,65000.0,2024-11-27
+296,Data Analyst,Data Analyst,Remote,Full-time,True,85000.0,2024-08-20
+297,Senior Data Analyst,Data Analyst,USA,Contract,True,110000.0,2024-01-23
+298,Senior Data Analyst,Data Analyst,Remote,Full-time,False,105000.0,2024-06-06
+299,Data Analyst,Data Analyst,India,Full-time,True,125000.0,2024-08-31
+300,Senior Data Analyst,Data Analyst,Remote,Full-time,False,105000.0,2024-01-29
+301,Senior Data Analyst,Data Analyst,Remote,Contract,True,,2024-05-23
+302,Senior Data Analyst,Data Analyst,Remote,Contract,True,90000.0,2024-03-03
+303,Junior Data Analyst,Data Analyst,Germany,Contract,False,105000.0,2024-06-30
+304,Data Analyst,Data Analyst,India,Contract,True,70000.0,2024-01-31
+305,Senior Data Analyst,Data Analyst,UK,Contract,True,95000.0,2024-04-30
+306,Data Analyst,Data Analyst,Remote,Full-time,True,100000.0,2024-09-23
+307,Data Analyst,Data Analyst,UK,Full-time,True,115000.0,2024-12-14
+308,Data Analyst,Data Analyst,USA,Full-time,True,75000.0,2024-10-12
+309,Data Analyst,Data Analyst,Remote,Full-time,True,80000.0,2024-12-28
+310,Data Analyst,Data Analyst,Remote,Contract,False,90000.0,2024-09-08
+311,Senior Data Analyst,Data Analyst,UK,Contract,True,70000.0,2024-08-29
+312,Data Analyst,Data Analyst,Germany,Contract,False,120000.0,2024-01-16
+313,Senior Data Analyst,Data Analyst,Remote,Contract,False,120000.0,2024-02-25
+314,Junior Data Analyst,Data Analyst,UK,Contract,False,115000.0,2024-04-12
+315,Data Analyst,Data Analyst,India,Full-time,False,85000.0,2024-07-18
+316,Data Analyst,Data Analyst,Germany,Full-time,True,80000.0,2024-04-29
+317,Data Analyst,Data Analyst,Germany,Full-time,False,100000.0,2024-10-05
+318,Senior Data Analyst,Data Analyst,UK,Contract,True,,2024-11-24
+319,Data Analyst,Data Analyst,USA,Full-time,True,115000.0,2024-04-15
+320,Senior Data Analyst,Data Analyst,USA,Full-time,True,,2024-04-05
+321,Senior Data Analyst,Data Analyst,Germany,Contract,False,90000.0,2024-05-07
+322,Data Analyst,Data Analyst,Remote,Contract,False,100000.0,2024-05-25
+323,Junior Data Analyst,Data Analyst,India,Full-time,True,75000.0,2024-05-17
+324,Junior Data Analyst,Data Analyst,Germany,Contract,False,75000.0,2024-11-04
+325,Senior Data Analyst,Data Analyst,UK,Contract,True,85000.0,2024-11-10
+326,Senior Data Analyst,Data Analyst,UK,Contract,True,100000.0,2024-07-02
+327,Senior Data Analyst,Data Analyst,USA,Full-time,False,80000.0,2024-10-19
+328,Senior Data Analyst,Data Analyst,Remote,Full-time,False,60000.0,2024-06-10
+329,Data Analyst,Data Analyst,UK,Full-time,False,60000.0,2024-11-09
+330,Senior Data Analyst,Data Analyst,USA,Full-time,False,90000.0,2024-08-16
+331,Junior Data Analyst,Data Analyst,USA,Contract,True,70000.0,2024-03-23
+332,Data Analyst,Data Analyst,Remote,Full-time,True,125000.0,2024-07-24
+333,Data Analyst,Data Analyst,USA,Full-time,False,70000.0,2024-06-29
+334,Senior Data Analyst,Data Analyst,India,Contract,True,100000.0,2024-10-17
+335,Data Analyst,Data Analyst,UK,Full-time,False,90000.0,2024-04-23
+336,Data Analyst,Data Analyst,India,Contract,False,95000.0,2024-10-03
+337,Data Analyst,Data Analyst,USA,Contract,False,115000.0,2024-02-04
+338,Data Analyst,Data Analyst,Germany,Contract,True,60000.0,2024-05-19
+339,Junior Data Analyst,Data Analyst,India,Contract,False,120000.0,2024-08-09
+340,Data Analyst,Data Analyst,Remote,Contract,False,100000.0,2024-06-09
+341,Junior Data Analyst,Data Analyst,Germany,Full-time,False,65000.0,2024-11-01
+342,Senior Data Analyst,Data Analyst,India,Contract,True,65000.0,2024-03-09
+343,Data Analyst,Data Analyst,Remote,Full-time,False,70000.0,2024-01-24
+344,Senior Data Analyst,Data Analyst,USA,Full-time,False,80000.0,2024-09-20
+345,Senior Data Analyst,Data Analyst,Germany,Contract,False,60000.0,2024-08-10
+346,Data Analyst,Data Analyst,USA,Contract,False,60000.0,2024-06-15
+347,Data Analyst,Data Analyst,UK,Full-time,True,95000.0,2024-07-22
+348,Senior Data Analyst,Data Analyst,UK,Contract,False,95000.0,2024-06-23
+349,Data Analyst,Data Analyst,India,Contract,False,110000.0,2024-07-17
+350,Senior Data Analyst,Data Analyst,Germany,Contract,False,90000.0,2024-11-15
+351,Senior Data Analyst,Data Analyst,USA,Full-time,True,80000.0,2024-08-31
+352,Junior Data Analyst,Data Analyst,India,Full-time,False,105000.0,2024-06-27
+353,Senior Data Analyst,Data Analyst,USA,Full-time,True,110000.0,2024-04-27
+354,Senior Data Analyst,Data Analyst,Remote,Contract,True,75000.0,2024-05-16
+355,Data Analyst,Data Analyst,India,Full-time,True,75000.0,2024-07-03
+356,Junior Data Analyst,Data Analyst,USA,Contract,True,75000.0,2024-03-15
+357,Data Analyst,Data Analyst,Remote,Contract,False,115000.0,2024-06-28
+358,Junior Data Analyst,Data Analyst,USA,Contract,False,95000.0,2024-10-02
+359,Senior Data Analyst,Data Analyst,UK,Full-time,True,80000.0,2024-01-09
+360,Data Analyst,Data Analyst,India,Contract,True,100000.0,2024-01-07
+361,Junior Data Analyst,Data Analyst,Remote,Full-time,False,85000.0,2024-06-06
+362,Senior Data Analyst,Data Analyst,Remote,Contract,False,85000.0,2024-01-25
+363,Data Analyst,Data Analyst,Germany,Full-time,True,120000.0,2024-08-11
+364,Data Analyst,Data Analyst,Germany,Full-time,False,85000.0,2024-10-12
+365,Data Analyst,Data Analyst,USA,Contract,True,110000.0,2024-11-14
+366,Senior Data Analyst,Data Analyst,USA,Contract,True,80000.0,2024-05-31
+367,Data Analyst,Data Analyst,UK,Full-time,False,125000.0,2024-04-22
+368,Junior Data Analyst,Data Analyst,Germany,Full-time,True,80000.0,2024-09-14
+369,Senior Data Analyst,Data Analyst,UK,Contract,False,60000.0,2024-08-17
+370,Data Analyst,Data Analyst,Germany,Full-time,False,90000.0,2024-05-30
+371,Senior Data Analyst,Data Analyst,Germany,Contract,True,105000.0,2024-01-20
+372,Junior Data Analyst,Data Analyst,UK,Full-time,False,70000.0,2024-09-08
+373,Data Analyst,Data Analyst,India,Contract,False,85000.0,2024-09-15
+374,Junior Data Analyst,Data Analyst,USA,Full-time,False,90000.0,2024-01-10
+375,Junior Data Analyst,Data Analyst,Germany,Full-time,True,120000.0,2024-10-27
+376,Junior Data Analyst,Data Analyst,USA,Contract,False,120000.0,2024-08-19
+377,Junior Data Analyst,Data Analyst,USA,Contract,False,80000.0,2024-07-13
+378,Junior Data Analyst,Data Analyst,India,Contract,False,70000.0,2024-05-02
+379,Junior Data Analyst,Data Analyst,Remote,Full-time,True,110000.0,2024-10-12
+380,Data Analyst,Data Analyst,USA,Full-time,False,60000.0,2024-09-27
+381,Senior Data Analyst,Data Analyst,India,Contract,False,105000.0,2024-08-23
+382,Junior Data Analyst,Data Analyst,Remote,Contract,True,120000.0,2024-01-07
+383,Data Analyst,Data Analyst,UK,Contract,False,105000.0,2024-09-24
+384,Data Analyst,Data Analyst,USA,Full-time,False,90000.0,2024-07-10
+385,Junior Data Analyst,Data Analyst,India,Full-time,True,115000.0,2024-10-22
+386,Senior Data Analyst,Data Analyst,Germany,Full-time,False,100000.0,2024-05-23
+387,Junior Data Analyst,Data Analyst,Remote,Contract,True,85000.0,2024-03-04
+388,Data Analyst,Data Analyst,Germany,Full-time,True,120000.0,2024-05-10
+389,Junior Data Analyst,Data Analyst,UK,Contract,False,115000.0,2024-04-29
+390,Data Analyst,Data Analyst,India,Contract,False,125000.0,2024-09-17
+391,Senior Data Analyst,Data Analyst,UK,Contract,True,95000.0,2024-04-23
+392,Data Analyst,Data Analyst,Germany,Contract,False,75000.0,2024-10-06
+393,Senior Data Analyst,Data Analyst,USA,Contract,True,85000.0,2024-06-01
+394,Data Analyst,Data Analyst,UK,Contract,True,115000.0,2024-04-05
+395,Data Analyst,Data Analyst,Germany,Contract,True,115000.0,2024-02-21
+396,Senior Data Analyst,Data Analyst,Remote,Contract,False,95000.0,2024-04-16
+397,Junior Data Analyst,Data Analyst,Remote,Contract,True,70000.0,2024-10-23
+398,Junior Data Analyst,Data Analyst,UK,Full-time,False,100000.0,2024-12-21
+399,Senior Data Analyst,Data Analyst,UK,Full-time,True,75000.0,2024-01-17
+400,Senior Data Analyst,Data Analyst,Remote,Full-time,True,115000.0,2024-08-22
+401,Junior Data Analyst,Data Analyst,USA,Full-time,True,100000.0,2024-03-27
+402,Data Analyst,Data Analyst,USA,Full-time,True,125000.0,2024-07-29
+403,Data Analyst,Data Analyst,USA,Full-time,False,115000.0,2024-12-09
+404,Data Analyst,Data Analyst,USA,Full-time,True,105000.0,2024-09-28
+405,Data Analyst,Data Analyst,UK,Full-time,False,110000.0,2024-04-22
+406,Data Analyst,Data Analyst,USA,Full-time,False,105000.0,2024-10-03
+407,Data Analyst,Data Analyst,UK,Contract,False,85000.0,2024-03-21
+408,Senior Data Analyst,Data Analyst,Germany,Contract,True,60000.0,2024-09-25
+409,Data Analyst,Data Analyst,India,Full-time,False,95000.0,2024-09-19
+410,Junior Data Analyst,Data Analyst,UK,Full-time,True,90000.0,2024-06-08
+411,Senior Data Analyst,Data Analyst,India,Contract,False,115000.0,2024-06-30
+412,Senior Data Analyst,Data Analyst,UK,Contract,False,75000.0,2024-03-03
+413,Senior Data Analyst,Data Analyst,Remote,Contract,True,95000.0,2024-02-18
+414,Data Analyst,Data Analyst,Remote,Full-time,False,120000.0,2024-02-04
+415,Junior Data Analyst,Data Analyst,India,Full-time,False,120000.0,2024-07-09
+416,Junior Data Analyst,Data Analyst,India,Full-time,False,90000.0,2024-02-25
+417,Junior Data Analyst,Data Analyst,Germany,Contract,True,70000.0,2024-12-30
+418,Junior Data Analyst,Data Analyst,USA,Contract,True,,2024-01-16
+419,Junior Data Analyst,Data Analyst,India,Contract,False,105000.0,2024-11-28
+420,Data Analyst,Data Analyst,Germany,Contract,True,75000.0,2024-03-18
+421,Junior Data Analyst,Data Analyst,Remote,Full-time,False,80000.0,2024-01-13
+422,Senior Data Analyst,Data Analyst,Germany,Contract,False,125000.0,2024-06-01
+423,Senior Data Analyst,Data Analyst,UK,Contract,True,125000.0,2024-06-29
+424,Junior Data Analyst,Data Analyst,Remote,Contract,False,85000.0,2024-08-02
+425,Junior Data Analyst,Data Analyst,USA,Full-time,True,105000.0,2024-10-30
+426,Data Analyst,Data Analyst,USA,Full-time,True,,2024-12-15
+427,Senior Data Analyst,Data Analyst,Germany,Contract,False,125000.0,2024-09-25
+428,Junior Data Analyst,Data Analyst,Germany,Full-time,False,80000.0,2024-08-03
+429,Data Analyst,Data Analyst,USA,Contract,True,60000.0,2024-06-25
+430,Senior Data Analyst,Data Analyst,Germany,Contract,False,105000.0,2024-09-19
+431,Senior Data Analyst,Data Analyst,USA,Contract,True,70000.0,2024-05-04
+432,Senior Data Analyst,Data Analyst,Germany,Full-time,True,100000.0,2024-06-12
+433,Data Analyst,Data Analyst,USA,Full-time,True,75000.0,2024-06-18
+434,Junior Data Analyst,Data Analyst,India,Contract,True,,2024-03-20
+435,Junior Data Analyst,Data Analyst,India,Full-time,True,70000.0,2024-02-09
+436,Data Analyst,Data Analyst,India,Full-time,False,70000.0,2024-10-04
+437,Data Analyst,Data Analyst,UK,Contract,False,120000.0,2024-11-28
+438,Junior Data Analyst,Data Analyst,USA,Contract,False,85000.0,2024-08-04
+439,Junior Data Analyst,Data Analyst,Remote,Contract,False,95000.0,2024-03-18
+440,Senior Data Analyst,Data Analyst,Germany,Contract,False,115000.0,2024-03-12
+441,Data Analyst,Data Analyst,India,Contract,False,60000.0,2024-05-15
+442,Senior Data Analyst,Data Analyst,Germany,Contract,True,60000.0,2024-08-15
+443,Senior Data Analyst,Data Analyst,USA,Full-time,True,120000.0,2024-04-02
+444,Data Analyst,Data Analyst,UK,Full-time,True,,2024-12-18
+445,Senior Data Analyst,Data Analyst,India,Contract,True,80000.0,2024-08-25
+446,Junior Data Analyst,Data Analyst,India,Full-time,True,60000.0,2024-02-04
+447,Senior Data Analyst,Data Analyst,Remote,Contract,True,120000.0,2024-06-28
+448,Junior Data Analyst,Data Analyst,UK,Full-time,False,70000.0,2024-06-12
+449,Senior Data Analyst,Data Analyst,USA,Contract,True,100000.0,2024-06-20
+450,Junior Data Analyst,Data Analyst,India,Full-time,True,80000.0,2024-05-02
+451,Senior Data Analyst,Data Analyst,Remote,Contract,True,65000.0,2024-03-02
+452,Junior Data Analyst,Data Analyst,Germany,Contract,False,70000.0,2024-08-21
+453,Data Analyst,Data Analyst,USA,Full-time,False,110000.0,2024-03-25
+454,Data Analyst,Data Analyst,Remote,Full-time,False,80000.0,2024-11-03
+455,Data Analyst,Data Analyst,UK,Full-time,False,65000.0,2024-09-09
+456,Junior Data Analyst,Data Analyst,Germany,Contract,False,65000.0,2024-07-02
+457,Junior Data Analyst,Data Analyst,India,Full-time,False,110000.0,2024-07-18
+458,Data Analyst,Data Analyst,USA,Contract,True,110000.0,2024-01-26
+459,Junior Data Analyst,Data Analyst,Germany,Contract,False,100000.0,2024-11-16
+460,Junior Data Analyst,Data Analyst,UK,Full-time,True,90000.0,2024-08-31
+461,Data Analyst,Data Analyst,India,Contract,False,100000.0,2024-07-14
+462,Data Analyst,Data Analyst,USA,Contract,False,90000.0,2024-06-12
+463,Data Analyst,Data Analyst,Remote,Full-time,False,80000.0,2024-08-20
+464,Data Analyst,Data Analyst,UK,Full-time,False,70000.0,2024-03-04
+465,Junior Data Analyst,Data Analyst,UK,Contract,False,120000.0,2024-07-01
+466,Data Analyst,Data Analyst,India,Full-time,False,80000.0,2024-03-29
+467,Senior Data Analyst,Data Analyst,USA,Contract,True,65000.0,2024-09-09
+468,Junior Data Analyst,Data Analyst,Germany,Full-time,True,75000.0,2024-08-30
+469,Junior Data Analyst,Data Analyst,Germany,Full-time,False,115000.0,2024-07-18
+470,Junior Data Analyst,Data Analyst,UK,Contract,True,85000.0,2024-12-03
+471,Data Analyst,Data Analyst,Germany,Full-time,False,,2024-11-18
+472,Data Analyst,Data Analyst,USA,Full-time,True,105000.0,2024-07-08
+473,Senior Data Analyst,Data Analyst,USA,Contract,False,120000.0,2024-08-14
+474,Data Analyst,Data Analyst,India,Full-time,True,60000.0,2024-08-16
+475,Senior Data Analyst,Data Analyst,Germany,Contract,False,100000.0,2024-12-18
+476,Data Analyst,Data Analyst,USA,Full-time,True,100000.0,2024-08-28
+477,Senior Data Analyst,Data Analyst,Germany,Full-time,True,120000.0,2024-03-09
+478,Data Analyst,Data Analyst,India,Contract,False,80000.0,2024-03-28
+479,Senior Data Analyst,Data Analyst,Germany,Full-time,True,90000.0,2024-10-22
+480,Data Analyst,Data Analyst,Germany,Full-time,False,70000.0,2024-11-03
+481,Data Analyst,Data Analyst,Remote,Contract,False,105000.0,2024-07-23
+482,Junior Data Analyst,Data Analyst,UK,Full-time,True,120000.0,2024-07-28
+483,Data Analyst,Data Analyst,Germany,Contract,True,110000.0,2024-09-02
+484,Junior Data Analyst,Data Analyst,Remote,Full-time,False,100000.0,2024-01-03
+485,Junior Data Analyst,Data Analyst,UK,Contract,True,110000.0,2024-02-01
+486,Senior Data Analyst,Data Analyst,USA,Contract,True,105000.0,2024-10-09
+487,Junior Data Analyst,Data Analyst,Germany,Contract,False,65000.0,2024-03-11
+488,Data Analyst,Data Analyst,USA,Contract,True,115000.0,2024-05-16
+489,Junior Data Analyst,Data Analyst,Germany,Contract,False,90000.0,2024-11-15
+490,Data Analyst,Data Analyst,UK,Full-time,True,110000.0,2024-05-31
+491,Junior Data Analyst,Data Analyst,Remote,Contract,True,105000.0,2024-07-14
+492,Senior Data Analyst,Data Analyst,UK,Full-time,False,125000.0,2024-02-04
+493,Junior Data Analyst,Data Analyst,USA,Full-time,False,115000.0,2024-09-28
+494,Senior Data Analyst,Data Analyst,USA,Contract,True,100000.0,2024-08-05
+495,Senior Data Analyst,Data Analyst,UK,Contract,False,105000.0,2024-05-24
+496,Junior Data Analyst,Data Analyst,Germany,Contract,True,125000.0,2024-11-15
+497,Data Analyst,Data Analyst,Germany,Full-time,False,90000.0,2024-06-02
+498,Senior Data Analyst,Data Analyst,Germany,Full-time,False,60000.0,2024-11-11
+499,Junior Data Analyst,Data Analyst,Remote,Contract,True,70000.0,2024-12-12
+500,Junior Data Analyst,Data Analyst,USA,Full-time,False,70000.0,2024-10-08
+501,Data Analyst,Data Analyst,USA,Contract,True,90000.0,2024-06-28
+502,Data Analyst,Data Analyst,India,Contract,True,70000.0,2024-06-22
+503,Senior Data Analyst,Data Analyst,UK,Full-time,True,75000.0,2024-02-27
+504,Senior Data Analyst,Data Analyst,USA,Full-time,True,90000.0,2024-01-24
+505,Junior Data Analyst,Data Analyst,India,Contract,True,95000.0,2024-12-15
+506,Data Analyst,Data Analyst,India,Full-time,True,85000.0,2024-12-08
+507,Data Analyst,Data Analyst,Germany,Contract,True,85000.0,2024-09-13
+508,Junior Data Analyst,Data Analyst,India,Contract,False,85000.0,2024-02-09
+509,Junior Data Analyst,Data Analyst,India,Contract,False,90000.0,2024-12-15
+510,Data Analyst,Data Analyst,USA,Contract,True,85000.0,2024-09-05
+511,Data Analyst,Data Analyst,Germany,Contract,True,85000.0,2024-09-01
+512,Junior Data Analyst,Data Analyst,Remote,Contract,False,90000.0,2024-12-12
+513,Junior Data Analyst,Data Analyst,India,Contract,True,75000.0,2024-10-19
+514,Data Analyst,Data Analyst,India,Contract,True,70000.0,2024-08-07
+515,Junior Data Analyst,Data Analyst,Remote,Contract,True,105000.0,2024-09-05
+516,Senior Data Analyst,Data Analyst,USA,Contract,True,125000.0,2024-04-26
+517,Senior Data Analyst,Data Analyst,UK,Contract,True,60000.0,2024-05-11
+518,Junior Data Analyst,Data Analyst,UK,Contract,False,125000.0,2024-07-17
+519,Data Analyst,Data Analyst,UK,Full-time,True,95000.0,2024-07-19
+520,Data Analyst,Data Analyst,UK,Contract,False,,2024-09-05
+521,Data Analyst,Data Analyst,India,Full-time,True,90000.0,2024-11-29
+522,Data Analyst,Data Analyst,Remote,Full-time,True,60000.0,2024-05-08
+523,Senior Data Analyst,Data Analyst,UK,Full-time,True,75000.0,2024-05-17
+524,Data Analyst,Data Analyst,USA,Full-time,True,85000.0,2024-05-16
+525,Junior Data Analyst,Data Analyst,Germany,Full-time,False,70000.0,2024-12-30
+526,Junior Data Analyst,Data Analyst,Remote,Contract,True,65000.0,2024-10-27
+527,Data Analyst,Data Analyst,Remote,Full-time,False,100000.0,2024-10-07
+528,Senior Data Analyst,Data Analyst,India,Contract,True,90000.0,2024-11-24
+529,Senior Data Analyst,Data Analyst,Germany,Contract,False,75000.0,2024-12-21
+530,Data Analyst,Data Analyst,India,Contract,True,80000.0,2024-09-06
+531,Senior Data Analyst,Data Analyst,Germany,Full-time,False,85000.0,2024-02-02
+532,Junior Data Analyst,Data Analyst,Remote,Contract,False,105000.0,2024-06-15
+533,Data Analyst,Data Analyst,Germany,Full-time,True,100000.0,2024-01-24
+534,Senior Data Analyst,Data Analyst,Remote,Contract,False,95000.0,2024-04-28
+535,Senior Data Analyst,Data Analyst,Germany,Full-time,False,115000.0,2024-09-25
+536,Junior Data Analyst,Data Analyst,USA,Full-time,True,120000.0,2024-01-29
+537,Data Analyst,Data Analyst,Remote,Full-time,False,70000.0,2024-01-29
+538,Senior Data Analyst,Data Analyst,Remote,Contract,False,,2024-08-05
+539,Senior Data Analyst,Data Analyst,Germany,Contract,False,120000.0,2024-09-12
+540,Junior Data Analyst,Data Analyst,UK,Contract,True,80000.0,2024-05-28
+541,Data Analyst,Data Analyst,USA,Contract,True,90000.0,2024-12-05
+542,Senior Data Analyst,Data Analyst,Remote,Contract,False,60000.0,2024-11-14
+543,Junior Data Analyst,Data Analyst,Remote,Full-time,True,100000.0,2024-09-11
+544,Junior Data Analyst,Data Analyst,Remote,Full-time,False,70000.0,2024-06-13
+545,Junior Data Analyst,Data Analyst,USA,Contract,False,60000.0,2024-05-01
+546,Junior Data Analyst,Data Analyst,Germany,Full-time,True,115000.0,2024-01-07
+547,Junior Data Analyst,Data Analyst,USA,Full-time,True,95000.0,2024-07-03
+548,Data Analyst,Data Analyst,Germany,Full-time,False,115000.0,2024-12-19
+549,Junior Data Analyst,Data Analyst,Germany,Full-time,False,80000.0,2024-02-28
+550,Senior Data Analyst,Data Analyst,India,Contract,False,85000.0,2024-02-24
+551,Junior Data Analyst,Data Analyst,Germany,Contract,True,120000.0,2024-08-23
+552,Data Analyst,Data Analyst,Remote,Contract,True,95000.0,2024-01-08
+553,Data Analyst,Data Analyst,UK,Contract,False,85000.0,2024-05-11
+554,Junior Data Analyst,Data Analyst,UK,Full-time,True,60000.0,2024-03-25
+555,Senior Data Analyst,Data Analyst,India,Full-time,False,100000.0,2024-04-02
+556,Senior Data Analyst,Data Analyst,USA,Contract,True,75000.0,2024-12-10
+557,Senior Data Analyst,Data Analyst,India,Full-time,False,75000.0,2024-11-05
+558,Junior Data Analyst,Data Analyst,UK,Full-time,True,,2024-03-31
+559,Junior Data Analyst,Data Analyst,Germany,Full-time,True,65000.0,2024-04-30
+560,Junior Data Analyst,Data Analyst,Germany,Contract,True,75000.0,2024-02-07
+561,Senior Data Analyst,Data Analyst,Germany,Full-time,True,80000.0,2024-02-07
+562,Senior Data Analyst,Data Analyst,USA,Full-time,False,80000.0,2024-08-05
+563,Junior Data Analyst,Data Analyst,Remote,Contract,False,95000.0,2024-12-26
+564,Senior Data Analyst,Data Analyst,Germany,Contract,False,,2024-07-06
+565,Senior Data Analyst,Data Analyst,Remote,Contract,True,120000.0,2024-01-29
+566,Junior Data Analyst,Data Analyst,India,Full-time,False,105000.0,2024-03-21
+567,Data Analyst,Data Analyst,Germany,Contract,True,105000.0,2024-12-10
+568,Data Analyst,Data Analyst,Germany,Full-time,True,95000.0,2024-08-20
+569,Data Analyst,Data Analyst,USA,Contract,False,60000.0,2024-01-21
+570,Senior Data Analyst,Data Analyst,Remote,Full-time,True,,2024-09-08
+571,Data Analyst,Data Analyst,India,Contract,True,70000.0,2024-09-29
+572,Data Analyst,Data Analyst,Germany,Full-time,True,90000.0,2024-05-12
+573,Data Analyst,Data Analyst,Germany,Contract,True,,2024-05-18
+574,Senior Data Analyst,Data Analyst,USA,Contract,False,65000.0,2024-04-05
+575,Data Analyst,Data Analyst,UK,Full-time,True,90000.0,2024-01-15
+576,Data Analyst,Data Analyst,Germany,Contract,False,80000.0,2024-03-31
+577,Senior Data Analyst,Data Analyst,Remote,Contract,True,110000.0,2024-10-27
+578,Senior Data Analyst,Data Analyst,Germany,Contract,False,100000.0,2024-09-12
+579,Senior Data Analyst,Data Analyst,Germany,Full-time,True,115000.0,2024-02-12
+580,Junior Data Analyst,Data Analyst,UK,Contract,False,65000.0,2024-08-15
+581,Data Analyst,Data Analyst,USA,Full-time,False,115000.0,2024-10-30
+582,Data Analyst,Data Analyst,UK,Full-time,True,70000.0,2024-04-22
+583,Junior Data Analyst,Data Analyst,Remote,Full-time,False,95000.0,2024-01-24
+584,Data Analyst,Data Analyst,USA,Contract,True,75000.0,2024-03-28
+585,Data Analyst,Data Analyst,India,Contract,False,105000.0,2024-12-18
+586,Data Analyst,Data Analyst,UK,Full-time,True,75000.0,2024-07-22
+587,Junior Data Analyst,Data Analyst,India,Contract,False,100000.0,2024-09-18
+588,Junior Data Analyst,Data Analyst,UK,Full-time,False,105000.0,2024-10-17
+589,Data Analyst,Data Analyst,USA,Contract,False,125000.0,2024-06-17
+590,Data Analyst,Data Analyst,India,Contract,True,75000.0,2024-11-11
+591,Senior Data Analyst,Data Analyst,UK,Full-time,False,110000.0,2024-03-25
+592,Junior Data Analyst,Data Analyst,India,Contract,True,70000.0,2024-04-02
+593,Data Analyst,Data Analyst,UK,Contract,False,65000.0,2024-09-23
+594,Data Analyst,Data Analyst,Germany,Contract,True,60000.0,2024-05-17
+595,Junior Data Analyst,Data Analyst,UK,Contract,False,75000.0,2024-01-16
+596,Junior Data Analyst,Data Analyst,USA,Contract,True,105000.0,2024-06-19
+597,Junior Data Analyst,Data Analyst,Germany,Contract,False,105000.0,2024-04-14
+598,Data Analyst,Data Analyst,Remote,Full-time,False,85000.0,2024-04-01
+599,Data Analyst,Data Analyst,USA,Contract,False,85000.0,2024-02-15
+600,Senior Data Analyst,Data Analyst,Germany,Contract,False,90000.0,2024-02-21
+601,Senior Data Analyst,Data Analyst,Remote,Full-time,False,90000.0,2024-09-17
+602,Junior Data Analyst,Data Analyst,UK,Full-time,False,75000.0,2024-08-12
+603,Data Analyst,Data Analyst,USA,Contract,False,100000.0,2024-07-20
+604,Junior Data Analyst,Data Analyst,India,Full-time,False,85000.0,2024-11-06
+605,Data Analyst,Data Analyst,UK,Contract,True,70000.0,2024-02-16
+606,Junior Data Analyst,Data Analyst,UK,Contract,True,115000.0,2024-11-02
+607,Data Analyst,Data Analyst,Germany,Full-time,True,75000.0,2024-09-06
+608,Junior Data Analyst,Data Analyst,UK,Full-time,True,90000.0,2024-06-22
+609,Junior Data Analyst,Data Analyst,Remote,Contract,True,80000.0,2024-08-09
+610,Senior Data Analyst,Data Analyst,Remote,Contract,False,110000.0,2024-01-01
+611,Senior Data Analyst,Data Analyst,Germany,Contract,False,,2024-10-10
+612,Junior Data Analyst,Data Analyst,India,Full-time,False,125000.0,2024-10-22
+613,Data Analyst,Data Analyst,Remote,Contract,False,125000.0,2024-11-05
+614,Data Analyst,Data Analyst,India,Contract,False,60000.0,2024-05-07
+615,Senior Data Analyst,Data Analyst,UK,Contract,True,85000.0,2024-09-13
+616,Junior Data Analyst,Data Analyst,Remote,Contract,False,,2024-07-13
+617,Data Analyst,Data Analyst,Remote,Contract,False,85000.0,2024-07-01
+618,Senior Data Analyst,Data Analyst,UK,Contract,True,105000.0,2024-09-20
+619,Data Analyst,Data Analyst,Remote,Full-time,True,95000.0,2024-04-11
+620,Junior Data Analyst,Data Analyst,UK,Contract,False,110000.0,2024-03-07
+621,Data Analyst,Data Analyst,USA,Contract,False,75000.0,2024-03-05
+622,Data Analyst,Data Analyst,India,Contract,True,70000.0,2024-04-04
+623,Junior Data Analyst,Data Analyst,Germany,Contract,False,85000.0,2024-03-22
+624,Junior Data Analyst,Data Analyst,Remote,Contract,False,70000.0,2024-09-21
+625,Data Analyst,Data Analyst,Remote,Contract,False,115000.0,2024-01-31
+626,Junior Data Analyst,Data Analyst,USA,Contract,True,90000.0,2024-07-25
+627,Senior Data Analyst,Data Analyst,USA,Full-time,True,,2024-07-17
+628,Senior Data Analyst,Data Analyst,USA,Contract,False,65000.0,2024-12-26
+629,Data Analyst,Data Analyst,Remote,Contract,False,65000.0,2024-04-28
+630,Junior Data Analyst,Data Analyst,India,Full-time,False,125000.0,2024-11-23
+631,Data Analyst,Data Analyst,India,Full-time,False,65000.0,2024-04-14
+632,Data Analyst,Data Analyst,UK,Full-time,True,60000.0,2024-06-06
+633,Senior Data Analyst,Data Analyst,UK,Full-time,True,100000.0,2024-08-18
+634,Senior Data Analyst,Data Analyst,Germany,Contract,False,100000.0,2024-07-03
+635,Senior Data Analyst,Data Analyst,Remote,Full-time,True,115000.0,2024-07-26
+636,Senior Data Analyst,Data Analyst,India,Full-time,True,120000.0,2024-08-13
+637,Senior Data Analyst,Data Analyst,USA,Full-time,False,85000.0,2024-11-13
+638,Senior Data Analyst,Data Analyst,UK,Full-time,True,60000.0,2024-11-24
+639,Data Analyst,Data Analyst,UK,Contract,False,125000.0,2024-06-20
+640,Data Analyst,Data Analyst,UK,Contract,False,85000.0,2024-03-19
+641,Junior Data Analyst,Data Analyst,India,Full-time,True,115000.0,2024-03-19
+642,Junior Data Analyst,Data Analyst,USA,Contract,True,110000.0,2024-09-01
+643,Data Analyst,Data Analyst,India,Contract,True,85000.0,2024-12-12
+644,Data Analyst,Data Analyst,Remote,Contract,True,70000.0,2024-08-22
+645,Senior Data Analyst,Data Analyst,Remote,Contract,False,90000.0,2024-12-21
+646,Senior Data Analyst,Data Analyst,USA,Full-time,False,85000.0,2024-05-26
+647,Data Analyst,Data Analyst,Remote,Full-time,False,90000.0,2024-06-14
+648,Data Analyst,Data Analyst,Remote,Contract,False,75000.0,2024-09-28
+649,Data Analyst,Data Analyst,UK,Full-time,True,65000.0,2024-06-14
+650,Junior Data Analyst,Data Analyst,Remote,Contract,True,80000.0,2024-04-03
